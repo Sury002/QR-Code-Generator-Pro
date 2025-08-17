@@ -14,12 +14,15 @@
   - Email addresses  
   - Phone numbers  
   - Wi-Fi credentials  
-  - Contact cards (vCard)  
+  - Contact cards (vCard)
+
+   
 - 🖌️ **Full Customization**:
   - Size selection (200x200 to 500x500)  
   - Error correction levels  
   - Custom colors (dark and light)  
-  - Adjustable margins  
+  - Adjustable margins
+   
 - 📚 **History Management**: Stores recently generated QR codes  
 - 💾 **Save Functionality**: Download QR codes as PNG images  
 - 📱 **Fully Responsive**: Works on all device sizes  
