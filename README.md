@@ -30,7 +30,7 @@
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript  
+- **Frontend**: HTML5, JavaScript  
 - **UI Framework**: Tailwind CSS  
 - **QR Generation**: QRCode.js  
 - **Icons**: Font Awesome  
